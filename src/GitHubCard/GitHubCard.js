@@ -4,7 +4,7 @@ import Card from "react-bootstrap/Card";
 function GitHubCard() {
   return (
     <div className="card">
-      <Card style={{ width: "30rem" }}>
+      <Card style={{ width: "18rem" }}>
         <Card.Img
           variant="top"
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNWvjIrRrWuNFRKRse29rnGanWWwqrISo8A&usqp=CAU"
